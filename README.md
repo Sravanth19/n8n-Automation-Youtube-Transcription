@@ -35,6 +35,8 @@ By leveraging **n8n** for orchestration and **OpenAI Whisper** for intelligence,
 
 ## ⚙️ How It Works
 
+![YouTube Transcription Workflow](https://drive.google.com/uc?export=view&id=1s2ouxxSzen-hOErW3zcOEjcduXWzO5Zu)
+
 1.  **Input:** The workflow receives a YouTube video URL.
 2.  **Download & Extract:** The system downloads the video and extracts the audio track using command-line tools.
 3.  **Process:** The audio is optimized to meet API file size limits.
@@ -70,15 +72,11 @@ By leveraging **n8n** for orchestration and **OpenAI Whisper** for intelligence,
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](issues).
-
 ## 📝 License
 
 This project is licensed under the MIT License.
 
 ---
 
-**Created by [Your Name]**
-*Connect with me on [LinkedIn](YOUR_LINKEDIN_URL)*
+**Created by Sravanth Gutipalli**
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/sravanth-gutipalli-99215a266)*
